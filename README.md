@@ -1,6 +1,6 @@
 # Portfolio
 Show ML Projects
-Project 1: Fraud Detection Overview
+# [Project 1: Fraud Detection Overview](https://github.com/Samm-OB/Portfolio)
 * Load the Dataset
 * Perform Data Analysis to find Patterns, outliers e.t.c
 * Select the Features that will be used in madel
